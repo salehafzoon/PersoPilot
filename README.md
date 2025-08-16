@@ -1,0 +1,51 @@
+# PersoPilot
+### An Adaptive AI-Copilot for Transparent Contextualized Persona Classification and Personalized Response Generation 
+![Python](https://img.shields.io/badge/Python-Compatible-green.svg)
+
+## Abstract
+Understanding and classifying user personas is critical for delivering effective personalization. While persona information offers valuable insights, its full potential is realized only when it is contextualized, linking user characteristics with situational context to enable more precise and meaningful service provision. Existing systems often treat persona and context as separate inputs, limiting their ability to generate nuanced, adaptive interactions. To address this gap, we present PersoPilot, an agentic AI-Copilot that integrates persona understanding with contextual analysis to support both end users and analysts. End users interact through a transparent, explainable chat interface, where they can express preferences in natural language, request recommendations, and receive information tailored to their immediate task. On the analyst side, PersoPilot delivers a transparent, reasoning-powered labeling assistant, integrated with an active learning–driven classification process that adapts over time with new labeled data. This feedback loop enables targeted service recommendations and adaptive personalization, bridging the gap between raw persona data and actionable, context-aware insights.
+
+
+## Figures
+
+| ![First Image Description](documents/persopilot_overview.png) | 
+|:----------------------------------------------------------:|
+| Fig.1 - PersoPilot architecture overview.|
+
+
+| ![User interface (PersoAgent) screenshot](documents/user_interface.png) | 
+|:----------------------------------------------------------:|
+| Fig.2 - User interface (PersoAgent) screenshot.|
+
+
+<div align="center">
+
+  <img src="documents/analyst_interface.png" alt="Analyst interface screenshots" width="600"><br/>
+  <em>Fig.3 – Analyst interface screenshots.</em>
+
+  <br/><br/>
+
+  <img src="documents/analyst_screenshot.png" alt="Classification results" width="600"><br/>
+  <em>Fig.4 – Classification results.</em>
+
+</div>
+
+
+## 📂 Project Structure
+
+- **[Backend Repository](https://github.com/your-username/persopilot-backend)**  
+  Handles core AI logic, APIs, and data processing.
+
+- **[Frontend Repository](https://github.com/your-username/persopilot-frontend)**  
+  Provides the user interface for interacting with the system.
+
+---
+
+## 🚀 Quick Start
+
+1. Clone the relevant repositories:
+   ```bash
+   git clone https://github.com/your-username/persopilot-backend
+   git clone https://github.com/your-username/persopilot-frontend
+
+
