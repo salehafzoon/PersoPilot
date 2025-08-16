@@ -33,10 +33,10 @@ Understanding and classifying user personas is critical for delivering effective
 
 ## 📂 Project Structure
 
-- **[Backend Repository](https://github.com/your-username/persopilot-backend)**  
+- **[Backend Repository](https://github.com/salehafzoon/persopilot-backend)**  
   Handles core AI logic, APIs, and data processing.
 
-- **[Frontend Repository](https://github.com/your-username/persopilot-frontend)**  
+- **[Frontend Repository](https://github.com/salehafzoon/persopilot-frontend)**  
   Provides the user interface for interacting with the system.
 
 ---
