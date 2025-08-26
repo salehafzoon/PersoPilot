@@ -2,7 +2,11 @@
 ### An Adaptive AI-Copilot for Transparent Contextualized Persona Classification and Personalized Response Generation 
 ![Python](https://img.shields.io/badge/Python-Compatible-green.svg)
 
-# Demo Video Link
+## 📂 Project Structure
+
+- **[Backend Repository](https://github.com/salehafzoon/persopilot-backend)**:  Handles core AI logic, APIs, and data processing.
+
+- **[Frontend Repository](https://github.com/salehafzoon/persopilot-frontend)**: Provides the user interface for interacting with the system.
 
 ## 🎥 Demo Video
 [Watch the PersoPilot Demo on YouTube](https://youtu.be/rEem4m0qIm8)
@@ -37,14 +41,6 @@ Understanding and classifying user personas is critical for delivering effective
 
 </div>
 
-
-## 📂 Project Structure
-
-- **[Backend Repository](https://github.com/salehafzoon/persopilot-backend)**  
-  Handles core AI logic, APIs, and data processing.
-
-- **[Frontend Repository](https://github.com/salehafzoon/persopilot-frontend)**  
-  Provides the user interface for interacting with the system.
 
 ---
 
