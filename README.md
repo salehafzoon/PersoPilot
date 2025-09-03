@@ -48,7 +48,7 @@ Understanding and classifying user personas is critical for delivering effective
 
 1. Clone the relevant repositories:
    ```bash
-   git clone https://github.com/your-username/persopilot-backend
-   git clone https://github.com/your-username/persopilot-frontend
+   git clone https://github.com/salehafzoon/persopilot-backend
+   git clone https://github.com/salehafzoon/persopilot-frontend
 
 
